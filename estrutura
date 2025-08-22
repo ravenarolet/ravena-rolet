@@ -1,0 +1,6 @@
+roleta-ravena/
+├── public/
+│   └── index.html          ← Frontend estilizado com roleta e Pix
+├── server.js               ← Backend Express com rotas Pix e verificação
+├── package.json            ← Dependências e comandos
+├── README.md               ← Instruções de uso e deploy
